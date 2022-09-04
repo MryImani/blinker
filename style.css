@@ -1,0 +1,25 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #352A64;
+}
+.container{
+    width: 100%;
+    margin: 0px auto;
+    text-align: center;
+}
+svg{
+    width: 50%;
+}
+.onOff {
+    fill: silver ;
+ }
+ .onYellow {
+    fill: #F0CC7A ;
+ }
+ .st1 {
+   fill: silver !important;
+   opacity: 0.8;
+
+}
